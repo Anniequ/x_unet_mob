@@ -1,0 +1,8 @@
+/data/
+/results/
+/model/
+/.idea
+/__pycache__
+/MYVOC
+/pred
+/net.txt
